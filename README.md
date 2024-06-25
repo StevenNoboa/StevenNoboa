@@ -1,13 +1,11 @@
-<h1 align="center"><b>Hi, I'm Steven Noboa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![Texto alternativo](sna.png)
+
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist+Junior."></a>
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ready+for+the+next+challenge."></a>
 </p>
 
-
-<video width="640" height="360" controls>
-  <source src="sn.mp4" type="video/mp4">
-</video>
 
 ## 💫 About Me:
 I am a data scientist. Professional, responsible, and analytical. As a graduate in Data Science, I have acquired the skills and knowledge necessary to successfully and efficiently develop projects. I enjoy this field; every step and challenge is a motivation for me.
